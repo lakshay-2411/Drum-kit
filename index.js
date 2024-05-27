@@ -55,7 +55,7 @@ function playSound(keyPressed) {
       break;
 
     default:
-      console.log(keyPressed);
+      break;
   }
 }
 
